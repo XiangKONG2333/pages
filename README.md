@@ -51,11 +51,11 @@ Assistant in sales and marketing Department
 - Process part using composites of carbon fiber and epoxy resin prepreg by hot pressing method
 
 ## Conferences and Publications
-01.2019 Winter school [Aussois 2019](https://aussois2019.sciencesconf.org/): Rupture des Matériaux et des Structures – Mécanismes et modélisations face aux applications industrielles, Aussois, France 
+01.2019 Winter school Aussois: [Rupture des Matériaux et des Structures – Mécanismes et modélisations face aux applications industrielles](https://aussois2019.sciencesconf.org/), Aussois, France 
 
-05.2019 Poster presentation in [workshop](http://www.leblond2019.ida.upmc.fr/): Fracture in solid mechanics: mathematical and physical aspects. Scientific symposium in honor of Jean-Baptiste Leblond, Sorbonne University, Paris France
+05.2019 Poster presentation in [Fracture in solid mechanics: mathematical and physical aspects](http://www.leblond2019.ida.upmc.fr/). Scientific symposium in honor of Jean-Baptiste Leblond, Sorbonne University, Paris France
 
-07.2019 Poster presentation in [workshop](https://synchrotron.sciencesconf.org/): Workshop sur la science auprès des synchrotrons de 4ème génération : quelques défis scientifiques à la lumière des synchrotrons de 4ème génération, CNRS Campus Gérard Mégie, Paris France.
+07.2019 Poster presentation in [Workshop sur la science auprès des synchrotrons de 4ème génération : quelques défis scientifiques à la lumière des synchrotrons de 4ème génération](https://synchrotron.sciencesconf.org/), CNRS Campus Gérard Mégie, Paris France.
 
 10.2020 Oral presentation : Ductile damage study for load path changes under low stress triaxiality via 3D synchrotron imaging and FE simulations on 17th International Conference on Aluminium alloys [ICAA17](https://icaa2020.sciencesconf.org/), virtual conference.
 
