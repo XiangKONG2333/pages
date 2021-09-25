@@ -5,10 +5,11 @@ You can use the [editor on GitHub](https://github.com/XiangKONG2333/pages/edit/m
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Education
-09.2018 - Present PhD candidate, Mines ParisTech, PSL Univeristy
-Centre des Matériaux (MAT), Evry France
+09.2018 - Present PhD candidate, Mines ParisTech, [PSL Univeristy](https://psl.eu/)
+Centre des Matériaux ([MAT](https://www.mat.minesparis.psl.eu/Accueil/)), Evry France
 Thesis title: Ductile Damage Study of Load Path Changes under Low Stress Triaxiality via 3D Synchrotron Imaging and FE Simulation 
-Supervisor: Prof. Thilo F. Morgeneyer (https://matperso.minesparis.psl.eu/Personnel/thilo.morgeneyer/&?lang=en)
+Supervisor: Prof. [Thilo F. Morgeneyer](https://matperso.minesparis.psl.eu/Personnel/thilo.morgeneyer/&?lang=en)
+Finance source: ANR project [LAMBDA](https://scanr.enseignementsup-recherche.gouv.fr/project/ANR-17-CE08-0051)
 
 09.2016 – 08.2018 Master degree, ENSAM ParisTech (GPA: 14/20 with mention Bien) 
 Specialization in Damage and Fracture of material 
@@ -50,14 +51,14 @@ Assistant in sales and marketing Department
 - Process part using composites of carbon fiber and epoxy resin prepreg by hot pressing method
 
 ## Conferences and Publications
-01.2019 Winter school Aussois 2019: Rupture des Matériaux et des Structures – Mécanismes et modélisations face aux applications industrielles, Aussois, France 
-05.2019 Poster presentation in workshop: Fracture in solid mechanics: mathematical and physical aspects. Scientific symposium in honor of Jean-Baptiste Leblond, Sorbonne University, Paris France
-07.2019 Poster presentation in workshop: Workshop sur la science auprès des synchrotrons de 4ème génération : quelques défis scientifiques à la lumière des synchrotrons de 4ème génération, CNRS Campus Gérard Mégie, Paris France.
-10.2020 Oral presentation : Ductile damage study for load path changes under low stress triaxiality via 3D synchrotron imaging and FE simulations on 17th International Conference on Aluminium alloys ICAA17, virtual conference.
-01.2021 Oral presentation: Ductile damage study for shear and tension load path changes assessed by experiments and FE simulations. 14th World Congress in Computational and Mechanics and ECCMAS Congress (WCCM-ECCOMAS 2020), virtual conference. 
-11.2021 Oral presentation: Multiscale observation of ductile damage on an Aluminum alloy 2198 under shear on 4th International Conference on Light Materials – Science and Technology (LightMAT2021), virtual conference.
+01.2019 Winter school [Aussois 2019](https://aussois2019.sciencesconf.org/): Rupture des Matériaux et des Structures – Mécanismes et modélisations face aux applications industrielles, Aussois, France 
+05.2019 Poster presentation in [workshop](http://www.leblond2019.ida.upmc.fr/): Fracture in solid mechanics: mathematical and physical aspects. Scientific symposium in honor of Jean-Baptiste Leblond, Sorbonne University, Paris France
+07.2019 Poster presentation in [workshop](https://synchrotron.sciencesconf.org/): Workshop sur la science auprès des synchrotrons de 4ème génération : quelques défis scientifiques à la lumière des synchrotrons de 4ème génération, CNRS Campus Gérard Mégie, Paris France.
+10.2020 Oral presentation : Ductile damage study for load path changes under low stress triaxiality via 3D synchrotron imaging and FE simulations on 17th International Conference on Aluminium alloys [ICAA17](https://icaa2020.sciencesconf.org/), virtual conference.
+01.2021 Oral presentation: Ductile damage study for shear and tension load path changes assessed by experiments and FE simulations. 14th World Congress in Computational and Mechanics and ECCMAS Congress ([WCCM-ECCOMAS 2020](https://virtual.wccm-eccomas2020.org/)), virtual conference. 
+11.2021 Oral presentation: Multiscale observation of ductile damage on an Aluminum alloy 2198 under shear on 4th International Conference on Light Materials – Science and Technology ([LightMAT2021](https://dgm.de/lightmat/)), virtual conference.
 
-Chinese patent CN201610559919.3:
+Chinese patent CN201610559919.3.
 
 
 
